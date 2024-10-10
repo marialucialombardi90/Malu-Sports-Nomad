@@ -1,0 +1,183 @@
+{
+  "global": {
+    "registered_facilities": "Registrierte Einrichtungen Funktionen",
+    "wifi": "WLAN",
+    "parkign": "Parken",
+    "pllo": "Schwimmbad",
+    "cafe": "Café",
+    "maintained": "Gepflegt",
+    "dressing": "Umkleide",
+    "security": "Sicherheit",
+    "complaint": "Support",
+    "explore_btn": "Details",
+    "rights": "Alle Rechte vorbehalten",
+    "book_now": "Jetzt buchen",
+    "filters": {
+      "heading": "Suche oder Filter nach deiner Wahl",
+      "filter_text_search": "Finde deine Studios...",
+      "country": "Land",
+      "city": "Stadt",
+      "state": "Zustand",
+      "trainer": "Coach",
+      "open_hours": "Alle",
+      "price_per_period": "Preis"
+    }
+  },
+  "header": {
+    "home": "Home",
+    "registered_facilities": "Studios",
+    "nearby_facilities": "In der Nähe",
+    "online_booking": "Buchen",
+    "excersises": "Workouts",
+    "contact_us": "Kontakt",
+    "logout": "Abmelden",
+    "login": "Aanmelden"
+  },
+  "home": {
+    "hero": {
+      "welcome": "Willkommen bei MALU SportNomad",
+      "subtitle": "Dein Fitnessstudio, egal wo Du bist!",
+      "btn_text": "Jetzt entdecken"
+    },
+    "registered": {
+      "heading": "Dein Weg zu Top-Fitnesseinrichtunge",
+      "text": "Unsere registrierten Fitnessstudios und Sportzentren bieten dir moderne Geräte und vielfältige Programme – egal, ob du Krafttraining, Cardio oder Gruppenkurse suchst. Genieße Fitness und Freizeit in einer sicheren und professionellen Umgebung, wo immer du bist. Entdecke jetzt die besten Locations für deinen aktiven Lifestyle!"
+    },
+    "nearby": {
+      "heading": "Finde dein Fitnessstudio überall",
+      "sub_heading": "Unsere zertifizierten Studios bieten Dir die beste Unterstützung – egal wo Du gerade bist. Buche jetzt und starte Dein Training!",
+      "text": "Bist du oft unterwegs, aber möchtest deine Trainingsroutine nicht vernachlässigen? Mit MALU SportNomad findest du ganz einfach die besten Fitnessstudios und Sportangebote in deiner Nähe – egal, wo du bist. Entdecke jetzt die besten Optionen für deinen aktiven Lifestyle!",
+      "community_text_btn": "Community",
+      "find_facility": "Studios in der Nähe"
+    },
+    "book_online": {
+      "heading": "Buche jetzt dein Training",
+      "text": "Unser Online-Buchungssystem macht es dir leicht, deine Fitnesskurse, Personal Trainings oder Sportaktivitäten schnell und einfach zu reservieren – egal, wo du bist. Finde verfügbare Slots, plane dein Training und organisiere dich mit wenigen Klicks. Starte jetzt und sichere dir deinen Platz!",
+      "btn_text": "los geht’s"
+    },
+    "exercise": {
+      "heading": "Finde dein Workout",
+      "text": "Entdecke verschiedene Trainingsmöglichkeiten – von Kraft- und Cardioworkouts bis hin zu Aktivitäten wie Schwimmen, Radfahren oder Yoga. Egal, ob du intensive Einheiten bevorzugst oder entspannte Übungen wie Pilates, hier findest du alles, um fit und gesund zu bleiben. Halte dein Training abwechslungsreich und abgestimmt auf deine Ziele!"
+    },
+    "feedback": {
+      "heading": "Dein Feedback ist uns wichtig",
+      "text": "Hast du ein Problem bei der Buchung oder möchtest uns Feedback zu einer Einrichtung geben? Lass es uns wissen – wir sind hier, um dir zu helfen.",
+      "proceed_btn": "Feedback geben"
+    },
+    "working": {
+      "heading": "So funktioniert MALU SportNomad",
+      "text": "Anmeldung Registriere dich ganz einfach auf unserer Webseite und melde dich dann im Portal an, um sofort loszulegen.",
+      "section1": {
+        "heading": "Anmeldung",
+        "text": "Melde dich im Portal an, nachdem du dich auf der Website registriert hast."
+      },
+      "section2": {
+        "heading": "Finde Fitness- Spots in deiner Nähe",
+        "text": "Finde schnell Fitnessstudios, Schwimmbäder, Wellnesscenter, Sportplätze und mehr in deiner Nähe. Egal ob du nach Basketball-, Tennis- oder Fußballplätzen, Yoga- oder Pilatesräumen suchst – wir haben die besten Optionen für dich zusammengestellt."
+      },
+      "section3": {
+        "heading": "Training reservieren",
+        "text": "Reserviere dein Training bequem online bei einer unserer zertifizierten Einrichtungen. Wähle einfach dein Studio aus der Liste und sichere dir deinen Platz."
+      }
+    }
+  },
+  "registered_facility": {
+    "hero": {
+      "welcome": "Dein Training, dein Ort",
+      "subtitle": "Unsere zertifizierten Fitnessstudios und Sportzentren bieten dir verlässliche Trainingsmöglichkeiten, wo immer du bist. Finde und buche deine ideale Einrichtung, um in Topform zu bleiben!"
+    },
+    "heading": "Finde deinem Fitness- Spot und Coach  – schnell und einfach!"
+  },
+  "nearby": {
+    "hero": {
+      "welcome": "Finde dein Fitnessstudio weltweit",
+      "subtitle": "Für alle, die unterwegs sind und ihre Trainingsroutine beibehalten möchten. Mit MALU SportNomad findest du Sporteinrichtungen überall auf der Welt – bleib fit, egal wohin dich deine Reisen führen!"
+    },
+    "heading": "Fitness -Spots suchen",
+    "text": "Mit der Kartenansicht findest du ganz einfach Sporteinrichtungen in deiner Nähe – egal, wo du bist. Ob du auf Reisen bist oder einfach nur ein neues Studio suchst, entdecke Fitnessstudios, Sportplätze und lokale Fitnessangebote in deiner Umgebung."
+  },
+  "booking": {
+    "hero": {
+      "welcome": "Dein Training, dein Ort",
+      "subtitle": "Unsere zertifizierten Fitnessstudios und Sportzentren bieten dir verlässliche Trainingsmöglichkeiten, wo immer du bist. Finde und buche deine ideale Einrichtung, um in Topform zu bleiben!"
+    },
+    "heading": "Suche oder filtere nach deiner Wahl"
+  },
+  "exercise": {
+    "hero": {
+      "welcome": "Dein Workout entdecken",
+      "subtitle": "Unsere Übungen helfen dir, überall fit zu bleiben. Egal, ob du zu Hause, im Fitnessstudio oder unterwegs bist – entdecke vielfältige Workouts und finde das, was am besten zu dir passt."
+    },
+    "heading": "Übungen ohne Equipment",
+    "search": "Finde deine Übung....",
+    "search_btn": "Suchen",
+    "all_text": "Alle",
+    "global": {
+      "insights": "Einblicke zur Verbesserung",
+      "overcome": "Hindernisse",
+      "healthy_dite": "Ernährung",
+      "dedication": "Motivation",
+      "commitment": "Zielsetzung"
+    }
+  },
+  "contact": {
+    "welcome": "Gib jetzt dein Feedback ab",
+    "subtitle": "Deine Meinung ist unser Wegweiser! Teile jetzt dein Feedback mit uns, um uns zu helfen, dein Erlebnis zu verbessern und eine bessere Zukunft gemeinsam zu gestalten!",
+    "form": {
+      "full_name": "Vollständiger Name",
+      "country": "Land",
+      "city": "Stadt",
+      "phone_no": "Telefonnummer",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "send_btn": "Nachricht senden"
+    }
+  },
+  "sign_in": {
+    "email_label": "Email",
+    "email_required": "Email ist erforderlich",
+    "password_label": "Passwort",
+    "password_required": "Passwort ist erforderlich",
+    "sign_in_button": "Anmelden",
+    "no_account": "Sie haben kein Konto?",
+    "create_account": "Jetzt erstellen",
+    "forgot_password": "Passwort vergessen?",
+    "already_have_account": "Haben Sie schon ein Konto?"
+  },
+  "sign_up": {
+    "first_name_label": "Vorname",
+    "first_name_required": "Vorname ist erforderlich",
+    "last_name_label": "Nachname",
+    "last_name_required": "Nachname ist erforderlich",
+    "email_label": "E-Mail",
+    "email_required": "E-Mail ist erforderlich",
+    "password_label": "Passwort",
+    "password_required": "Passwort ist erforderlich",
+    "confirm_password_label": "Passwort bestätigen",
+    "confirm_password_required": "Passwortbestätigung ist erforderlich",
+    "register_button": "Jetzt registrieren",
+    "already_have_account": "Haben Sie bereits ein Konto?",
+    "sign_in": "Anmelden"
+  },
+  "forget_password": {
+    "verify_email": "Registrierte E-Mail überprüfen:",
+    "verify_button": "E-Mail überprüfen",
+    "already_account": "Haben Sie bereits ein Konto?",
+    "sign_in": " Anmelden"
+  },
+  "otp": {
+    "enter_otp": "Geben Sie die 6-stellige OTP ein",
+    "verify_otp": "OTP bestätigen",
+    "did_not_receive": "OTP nicht erhalten?",
+    "email_verification": "E-Mail-Bestätigung"
+  },
+  "reviews": {
+    "heading": "Bewertungen von nomadischen Athleten",
+    "btn_text": "Feedback",
+    "add_btn": "Füge deine hinzu"
+  },
+  "pagination": {
+    "prev": "Zurück",
+    "next": "Weiter"
+  }
+}

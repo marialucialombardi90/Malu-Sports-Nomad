@@ -1,0 +1,183 @@
+{
+  "global": {
+    "registered_facilities": "Registered Facilities Features",
+    "wifi": "Free Wi-Fi",
+    "parkign": "Free Parking",
+    "pllo": "Swimming Pool",
+    "cafe": "Cafe",
+    "maintained": "Maintained",
+    "dressing": "Private Dressing",
+    "security": "Security",
+    "complaint": "Complaint Service",
+    "explore_btn": "Explore More",
+    "rights": "All rights Reserved",
+    "book_now": "Book Now",
+    "filters": {
+      "heading": "Search or Filter with Your Choice",
+      "filter_text_search": "Search any registered facility....",
+      "country": "Chose Country",
+      "city": "Chose City",
+      "State": "State",
+      "trainer": "Trainer",
+      "open_hours": "Category",
+      "price_per_period": "Price Per Period"
+    }
+  },
+  "header": {
+    "home": "Home",
+    "registered_facilities": "Registered Facilities",
+    "nearby_facilities": "Nearby Facilities",
+    "online_booking": "Online Booking",
+    "excersises": "Excersises",
+    "contact_us": "Contact Us",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "home": {
+    "hero": {
+      "welcome": "Welcome to MALU SportNomad",
+      "subtitle": "Stay Fit Where ever you are",
+      "btn_text": "Explore Facilities"
+    },
+    "registered": {
+      "heading": "Explore Registered Facilities",
+      "text": "Exploring registered facilities like gyms, sports complexes, and fitness centers can provide a wealth of opportunities for individuals looking to engage in physical activities, improve their health, or enjoy recreational sports. These facilities are equipped with specialized equipment, trained staff, and structured programs designed to meet a variety of fitness levels and goals. From modern gym setups offering personal training, weightlifting, and cardio machines to expansive sports complexes with courts for basketball, tennis, and indoor soccer, these facilities ensure a safe and regulated environment for exercise and leisure. Additionally, being registered means they comply with health and safety standards, providing users with a secure and well-maintained space to pursue their fitness journeys. Whether you're seeking individual training or group sports, registered facilities offer a diverse range of options to explore and enjoy."
+    },
+    "nearby": {
+      "heading": "Find Nearby Sports Facilities Wherever You Are",
+      "sub_heading": "For those who travel and want to maintain their workout routine",
+      "text": "Are you traveling but don't want to miss out on your workout routine? With Digital Nomad for Athletes, you can easily find the best sports facilities nearby, wherever you are. Explore gyms, sports courts, and local fitness services.",
+      "community_text_btn": "Join the Community",
+      "find_facility": "Find Nearby Facilities"
+    },
+    "book_online": {
+      "heading": "Book Online Now",
+      "text": "Booking online now for nearby facilities offers a quick and convenient way to secure your spot for fitness classes, gym sessions, or recreational activities. Many facilities provide online platforms where you can easily browse available time slots, check class schedules, and make reservations from the comfort of your home. Whether you're looking to book a personal training session at the gym, reserve a court for a game at the sports complex, or schedule a group yoga class, the online booking system simplifies the process. It ensures you don't miss out on your preferred activities and helps streamline your fitness routine with just a few clicks. Book online now and make the most of your local facilities today!",
+      "btn_text": "Book Now"
+    },
+    "exercise": {
+      "heading": "Explore Excersis",
+      "text": "Exploring exercise involves discovering diverse ways to stay fit and healthy, from traditional workouts like strength training, cardio, and yoga to dynamic activities like swimming, cycling, or dance. Exercise boosts physical strength, mental well-being, and energy levels while reducing stress. Whether you prefer high-intensity routines like CrossFit or low-impact exercises like Pilates, trying different forms can keep your fitness routine fresh and aligned with your goals."
+    },
+    "feedback": {
+      "heading": "Your Feedback Matters",
+      "text": "If you want to report against any organization related to booking or you want to give feedback related to our facilities",
+      "proceed_btn": "Click Here To Proceed"
+    },
+    "working": {
+      "heading": "How it works?",
+      "text": "With Digital Nomad for Athletes, your workout never stops. Discover the key features: Geolocation:Enter your location and see the nearest sports facilities. Community: Connect with other nomadic athletes who share reviews and tips on facilities. Bookings and Reviews:Book classes or workouts with local trainers and leave your review to help other users.",
+      "section1": {
+        "heading": "Login",
+        "text": "Login to the portal after signing to the website."
+      },
+      "section2": {
+        "heading": "Search Nearby",
+        "text": "Search the facilities nearby that relate to Gyms and Fitness Centers, Swimming Pools and Wellness Centers, Basketball, Tennis, and Football, Fields Yoga and Pilates Spaces."
+      },
+      "section3": {
+        "heading": "Book Online",
+        "text": "Book Online the registered facilities from the listed that were registered to us."
+      }
+    }
+  },
+  "registered_facility": {
+    "hero": {
+      "welcome": "Explore Registered Facilities",
+      "subtitle": "Registered Facilities are trustworthy complexs and gyms to helps you stay Fit Where ever you are"
+    },
+    "heading": "Search or Filter with Your Choice"
+  },
+  "nearby": {
+    "hero": {
+      "welcome": "Find Nearby Sports Facilities Wherever You Are",
+      "subtitle": "For those who travel and want to maintain their workout routine"
+    },
+    "heading": "Find Nearby Facilities",
+    "text": "Are you traveling but don't want to miss out on your workout routine? With Digital Nomad for Athletes, you can easily find the best sports facilities nearby, wherever you are. Explore gyms, sports courts, and local fitness services."
+  },
+  "booking": {
+    "hero": {
+      "welcome": "Book Registered Facility Now",
+      "subtitle": "Registered Facilities are trustworthy complexs and gyms to helps you stay Fit Where ever you are"
+    },
+    "heading": "Search or Filter with Your Choice"
+  },
+  "exercise": {
+    "hero": {
+      "welcome": "Explore Excercises",
+      "subtitle": "Excercises helps to Stay Fit Where ever you are"
+    },
+    "heading": "Excercises Without Equiment",
+    "search": "Search any exercise...",
+    "search_btn": "Search",
+    "all_text": "All",
+    "global": {
+      "insights": "Insights to Improve",
+      "overcome": "Overcoming",
+      "healthy_dite": "Healthy Dite",
+      "dedication": "Dedication",
+      "commitment": "Commitment"
+    }
+  },
+  "contact": {
+    "welcome": "Give Your FeedBack Now",
+    "subtitle": "Your opinion is our guide! Share your feedback now to help us enhance your experience and shape a better future together!",
+    "form": {
+      "full_name": "Full Name",
+      "country": "Country",
+      "city": "City",
+      "phone_no": "Phone No.",
+      "email": "Email",
+      "message": "Message",
+      "send_btn": "Send Message"
+    }
+  },
+  "sign_in": {
+    "email_label": "Email",
+    "email_required": "Email is required",
+    "password_label": "Password",
+    "password_required": "Password is required",
+    "sign_in_button": "Sign In",
+    "no_account": "Don't have an account?",
+    "create_account": "Create now",
+    "forgot_password": "Forgot password?",
+    "already_have_account": "Already have an account?"
+  },
+  "sign_up": {
+    "first_name_label": "First Name",
+    "first_name_required": "First Name is required",
+    "last_name_label": "Last Name",
+    "last_name_required": "Last Name is required",
+    "email_label": "Email",
+    "email_required": "Email is required",
+    "password_label": "Password",
+    "password_required": "Password is required",
+    "confirm_password_label": "Confirm Password",
+    "confirm_password_required": "Confirm Password is required",
+    "register_button": "Register Now",
+    "already_have_account": "Already have an account?",
+    "sign_in": "Sign in"
+  },
+  "forget_password": {
+    "verify_email": "Verify Registered Email:",
+    "verify_button": "Verify Email",
+    "already_account": "Already have an account?",
+    "sign_in": " Sign in"
+  },
+  "otp": {
+    "enter_otp": "Enter 6 Digit OTP",
+    "verify_otp": "Verify OTP",
+    "did_not_receive": "Didn't Receive OTP?",
+    "email_verification": "Email Verification"
+  },
+  "reviews": {
+    "heading": "Reviews from Nomadic Athletes",
+    "btn_text": "Feedback",
+    "add_btn": "Add Yours"
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next"
+  }
+}
